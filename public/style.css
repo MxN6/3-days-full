@@ -55,10 +55,6 @@ body {
     width:98%;
     font-family: inherit;
 }
-input:focus {
+#text:focus {
     outline: none;
-}
-
-#text::before {
-    content: "> ";
 }
