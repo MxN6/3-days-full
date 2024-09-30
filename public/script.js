@@ -2,7 +2,7 @@
 //     const response = await fetch('https://api-inference.huggingface.co/models/meta-llama/Llama-3.2-1B', {
 //         method: 'POST',
 //         headers: {
-//             Authorization: 'Bearer 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',
+//             Authorization: 'Bearer ',
 //             'Content-Type': 'application/json',
 //         },
 //         body: JSON.stringify({
